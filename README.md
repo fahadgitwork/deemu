@@ -17,7 +17,7 @@ This project is built with Flutter. To get started, make sure you have the follo
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/fahadgitwork/deemu
 cd deemu
 ```
 
